@@ -1,4 +1,4 @@
-<h1>Oiee, eu sou a Larissa Kelly!</h1> 
+<h1 align="center">Oiee, eu sou a Larissa Kelly!</h1> 
 <p>
   <ul type=square>
 <li >🏫 Hoje eu trabalho numa escola 
