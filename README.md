@@ -21,4 +21,4 @@
             <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>   
 
-![Snake animation](https://github.com/LarissaK0/LarissaK0/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LarissaK0/LarissaK0/blob/output/github-contribution-grid-snake.svg)
