@@ -20,8 +20,7 @@
             <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
             <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>   
-<div>
-  
+ 
 ![snake gif](https://github.com/LarissaK0/LarissaK0/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+
