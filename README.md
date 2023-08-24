@@ -20,11 +20,12 @@
             <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
             <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>   
+
 <div align="center">
-  
-  ![snake gif](https://github.com/LarissaK0/LarissaK0/blob/output/github-contribution-grid-snake.svg)
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larissak0/larissak0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larissak0/larissak0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larissak0/larissak0/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div> 
-
-
-
