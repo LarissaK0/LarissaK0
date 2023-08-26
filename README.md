@@ -1,12 +1,15 @@
-<h1 align="center">Oiee, eu sou a Larissa Kelly!</h1> 
+<h1 align="center">Oiee, eu sou a Larissa Kelly! </h1> 
+
+<div align="center">
+<img height="200cm" src="https://media.tenor.com/AW_4gupjfHQAAAAC/hachubby-rokubop.gif"/>
+</div>
 <p>
-  <ul type=square>
-<li >🏫 Hoje eu trabalho numa escola 
+  <ul align="center" type="none">
+<li>🏫 Hoje eu trabalho numa escola 
 <li>🎓 Estou graduando em Ciência da Computação
 <li>🌱 Estudando HTML, CSS e JavaScript 
 <li>🎸 Meu hobby favorito é tocar guitarra 
 <li>📫 Meu e-mail para contato: Larissak0@hotmail.com 
-<li>😄 Pronouns: ela/dela 
   </ul>
 </p>
 <div align="center">
