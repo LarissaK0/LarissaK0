@@ -5,7 +5,7 @@
 </div>
 <p>
   <ul align="center" type="none">
-<li>🏫 Hoje eu trabalho numa escola 
+<li>🏫 Hoje eu trabalho como HelpDesk 
 <li>🎓 Estou graduando em Ciência da Computação
 <li>🌱 Estudando HTML, CSS e JavaScript 
 <li>🎸 Meu hobby favorito é tocar guitarra 
