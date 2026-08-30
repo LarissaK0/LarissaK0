@@ -1,4 +1,4 @@
-<h1 align="center">Oiee, eu sou a Larissa Kelly! </h1> 
+<h1 align="center">Oi, eu sou a Larissa Kelly! </h1> 
 
 <div align="center">
 <img height="200cm" src="https://media.tenor.com/AW_4gupjfHQAAAAC/hachubby-rokubop.gif"/>
