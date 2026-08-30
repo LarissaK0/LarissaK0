@@ -9,7 +9,7 @@
 <li>🎓 Estou graduando em Ciência da Computação
 <li>🌱 Estudando HTML, CSS e JavaScript 
 <li>🎸 Meu hobby favorito é tocar guitarra 
-<li>📫 Meu e-mail para contato: Larissak0@hotmail.com 
+<li>📫 Meu e-mail para contato: larissakelly451@gmail.com
   </ul>
 </p>
 <div align="center">
